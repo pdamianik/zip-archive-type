@@ -5,6 +5,9 @@
 	"version": "1.0.0",
 	"publisher": "pdamianik",
 	"license": "SEE IN LICENSE",
+	"repository": {
+		"url": "https://github.com/pdamianik/zip-archive-type.git"
+	},
 	"engines": {
 		"vscode": "^1.45.0"
 	},
