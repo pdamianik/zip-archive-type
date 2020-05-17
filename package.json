@@ -3,6 +3,8 @@
 	"displayName": "ZIP archive type",
 	"description": "Adds a zip archive type to the Folder-Archiver",
 	"version": "1.0.0",
+	"publisher": "pdamianik",
+	"license": "SEE IN LICENSE",
 	"engines": {
 		"vscode": "^1.45.0"
 	},
