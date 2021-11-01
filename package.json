@@ -14,10 +14,14 @@
 	"categories": [
 		"Other"
 	],
+	"keywords": [
+		"zip"
+	],
 	"activationEvents": [
 		"onCommand:folder-archiver.archive"
 	],
 	"main": "./out/extension.js",
+	"browser": "./out/extension.js",
 	"contributes": {
 	},
 	"scripts": {
