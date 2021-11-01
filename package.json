@@ -2,7 +2,7 @@
 	"name": "zip-archive-type",
 	"displayName": "ZIP archive type",
 	"description": "Adds a zip archive type to the Folder-Archiver",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "pdamianik",
 	"license": "SEE IN LICENSE",
 	"repository": {
